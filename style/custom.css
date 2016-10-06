@@ -51,7 +51,7 @@ section#news p {
 }
 
 section#news .row > .col-sm-4 {
-  padding: 35px;
+  padding: 30px;
 }
 
 section#news .row > .col-sm-4:nth-of-type(2) {
